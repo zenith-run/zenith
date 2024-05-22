@@ -1,0 +1,13 @@
+{
+  "name": "@zenith-run/std",
+  "version": "0.0.4",
+  "repository": "https://github.com/zenith-run/zenith",
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5.0.0",
+    "@sinclair/typebox": "^0.32.3"
+  },
+  "dependencies": {
+    "@zenith-run/core": "workspace:*"
+  }
+}

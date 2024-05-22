@@ -1,0 +1,10 @@
+{
+  "name": "zenith-run",
+  "repository": "https://github.com/zenith-run/zenith",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/bun": "^1.0.0"
+  }
+}

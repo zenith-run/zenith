@@ -1,0 +1,12 @@
+{
+  "name": "@zenith-run/core",
+  "type": "module",
+  "version": "0.0.4",
+  "repository": "https://github.com/zenith-run/zenith",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@sinclair/typebox": "0.32.3"
+  }
+}
