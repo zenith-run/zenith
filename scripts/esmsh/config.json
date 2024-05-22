@@ -1,8 +1,0 @@
-{
-  "port": 8080,
-  "npmRegistry": "https://npm.pkg.github.com",
-  "npmRegistryScope": "@zenith-run",
-  "workDir": "/tmp/esmd",
-  "storage": "local:/tmp/esmd/storage",
-  "logLevel": "debug"
-}
